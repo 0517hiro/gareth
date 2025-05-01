@@ -4,3 +4,4 @@
 # test-repo02
 これはGitのテストリポジトリです。
 wawawawa
+sorena
